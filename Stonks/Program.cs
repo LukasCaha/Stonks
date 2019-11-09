@@ -15,9 +15,7 @@ namespace Stonks
     {
         public static void Main(string[] args)
         {
-            //Console.WriteLine(  "Dusa");
             CreateHostBuilder(args).Build().Run();
-            Console.WriteLine("Hello, ryba");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
@@ -26,6 +24,5 @@ namespace Stonks
                 {
                     webBuilder.UseStartup<Startup>();
                 });
-        // hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd 
     }
 }

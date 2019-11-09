@@ -5,9 +5,12 @@ using System.Threading.Tasks;
 
 namespace Stonks.Data
 {
-    class Stock
+    class Share
     {
-        public int ShareId { get; set; }
+
+        public int StockId { get; set; }
         public int Amount { get; set; }
+        public float BuyPrice { get; set; }
+        
     }
 }
