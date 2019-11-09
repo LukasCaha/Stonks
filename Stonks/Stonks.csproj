@@ -5,10 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Data\" />
-    <Folder Include="Plugins\Generator\" />
-    <Folder Include="Plugins\Database\" />
   </ItemGroup>
 
 </Project>
