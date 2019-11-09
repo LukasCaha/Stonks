@@ -24,5 +24,6 @@ namespace Stonks
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+        // hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd hehe xd 
     }
 }
