@@ -10,7 +10,7 @@ namespace Stonks.Data
 
         public int StockId { get; set; }
         public int Amount { get; set; }
-        public float BuyPrice { get; set; }
+        public decimal BuyPrice { get; set; }
         
     }
 }
