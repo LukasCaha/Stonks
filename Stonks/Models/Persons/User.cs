@@ -5,9 +5,6 @@ using System.Threading.Tasks;
 
 namespace Stonks.Models.Persons
 {
-
-    //TODO individual directory @Ryba
-    enum RPG_Class { Barbarian, Wizard, Monk, Necromancer, Druid, Bard, Rogue, Marksman } //TODO: rename classes
     class User : Person
     {
         public int ID { get; set; }
