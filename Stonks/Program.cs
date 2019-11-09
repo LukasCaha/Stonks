@@ -17,6 +17,7 @@ namespace Stonks
         {
             //Console.WriteLine(  "Dusa");
             CreateHostBuilder(args).Build().Run();
+            Console.WriteLine("Hello, ryba");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
